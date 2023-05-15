@@ -1,4 +1,12 @@
-### Hi there 👋
+# Sobre mi
+- Aprendiz de desarrollador web
+- Aprendiz de modelaje 3D en Unity
+
+# Stack Actual
+Proximamente...
+
+# Contacto
+Proximamente...
 
 <!--
 **cyber-aurora/cyber-aurora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
